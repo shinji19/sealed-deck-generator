@@ -1,0 +1,274 @@
+1.0 Ugin, the Spirit Dragon
+0.4 Alpine Watchdog
+0.8 Angelic Ascension
+0.5 Anointed Chorister
+0.7 Aven Gagglemaster
+1.0 Baneslayer Angel
+1.0 Basri Ket
+0.7 Basri's Acolyte
+0.7 Basri's Lieutenant
+0.5 Basri's Solidarity
+0.5 Celestial Enforcer
+0.5 Concordia Pegasus
+0.4 Containment Priest
+0.5 Daybreak Charger
+0.4 Defiant Strike
+0.4 Dub
+0.8 Faith's Fetters
+0.7 Falconer Adept
+0.4 Feat of Resistance
+0.7 Gale Swooper
+0.6 Glorious Anthem
+0.3 Griffin Aerie
+0.6 Idol of Endurance
+0.8 Legion's Judgment
+0.4 Light of Promise
+0.5 Makeshift Battalion
+0.6 Mangara, the Diplomat
+0.3 Nine Lives
+0.5 Pack Leader
+0.5 Rambunctious Mutt
+0.3 Revitalize
+0.6 Runed Halo
+0.3 Sanctum of Tranquil Light
+0.6 Seasoned Hallowblade
+0.9 Secure the Scene
+0.3 Selfless Savior
+0.8 Siege Striker
+0.3 Speaker of the Heavens
+0.4 Staunch Shieldmate
+0.8 Swift Response
+0.5 Tempered Veteran
+0.5 Valorous Steed
+0.6 Vryn Wingmare
+0.4 Warded Battlements
+0.3 Barrin, Tolarian Archmage
+0.4 Cancel
+0.8 Capture Sphere
+0.4 Discontinuity
+0.7 Enthralling Hold
+0.5 Frantic Inventory
+0.5 Frost Breath
+0.5 Ghostly Pilferer
+0.5 Jeskai Elder
+0.6 Keen Glidemaster
+0.4 Library Larcenist
+0.4 Lofty Denial
+0.4 Miscast
+0.7 Mistral Singer
+0.7 Opt
+0.7 Pursued Whale
+0.6 Rain of Revelation
+0.6 Read the Tides
+0.5 Rewind
+0.5 Riddleform
+0.8 Roaming Ghostlight
+0.3 Rookie Mistake
+0.5 Rousing Read
+0.3 Sanctum of Calm Waters
+0.4 See the Truth
+0.6 Shacklegeist
+0.5 Shipwreck Dowser
+0.6 Spined Megalodon
+0.7 Stormwing Entity
+0.3 Sublime Epiphany
+0.7 Teferi, Master of Time
+0.1 Teferi's Ageless Insight
+0.5 Teferi's Protege
+0.5 Teferi's Tutelage
+0.7 Tide Skimmer
+0.5 Tolarian Kraken
+0.5 Tome Anima
+0.4 Unsubstantiate
+0.3 Vodalian Arcanist
+0.6 Waker of Waves
+0.4 Wall of Runes
+0.5 Wishcoin Crab
+0.5 Alchemist's Gift
+0.2 Archfiend's Vessel
+0.5 Bad Deal
+0.4 Blood Glutton
+0.5 Caged Zombie
+0.5 Carrion Grub
+0.4 Crypt Lurker
+0.5 Deathbloom Thallid
+0.8 Demonic Embrace
+0.3 Duress
+0.7 Eliminate
+0.7 Fetid Imp
+0.9 Finishing Blow
+0.5 Gloom Sower
+0.9 Goremand
+0.8 Grasp of Darkness
+0.6 Grim Tutor
+0.6 Hooded Blightfang
+0.4 Infernal Scarring
+0.5 Kaervek, the Spiteful
+0.6 Kitesail Freebooter
+0.9 Liliana, Waker of the Dead
+0.5 Liliana's Devotee
+0.5 Liliana's Standard Bearer
+0.4 Liliana's Steward
+0.6 Malefic Scythe
+0.5 Masked Blackguard
+0.7 Massacre Wurm
+0.5 Mind Rot
+0.3 Necromentia
+0.1 Peer into the Abyss
+0.6 Pestilent Haze
+0.6 Rise Again
+0.4 Sanctum of Stone Fangs
+0.6 Sanguine Indulgence
+0.5 Silversmote Ghoul
+0.5 Skeleton Archer
+0.4 Tavern Swindler
+0.5 Thieves' Guild Enforcer
+0.5 Village Rites
+0.7 Vito, Thorn of the Dusk Rose
+0.5 Walking Corpse
+0.3 Witch's Cauldron
+0.5 Battle-Rattle Shaman
+0.6 Bolt Hound
+0.6 Bone Pit Brute
+1.0 Brash Taunter
+0.6 Burn Bright
+1.0 Chandra, Heart of Fire
+0.6 Chandra's Incinerator
+0.6 Chandra's Magmutt
+0.6 Chandra's Pyreling
+0.3 Conspicuous Snoop
+0.4 Crash Through
+0.3 Destructive Tampering
+0.3 Double Vision
+0.5 Fiery Emancipation
+0.5 Furious Rise
+0.4 Furor of the Bitten
+0.6 Gadrak, the Crown-Scourge
+0.5 Goblin Arsonist
+0.5 Goblin Wizardry
+0.5 Havoc Jester
+0.7 Heartfire Immolator
+0.8 Hellkite Punisher
+0.5 Hobblefiend
+0.5 Igneous Cur
+0.5 Kinetic Augur
+0.4 Onakke Ogre
+0.6 Pitchburn Devils
+0.4 Sanctum of Shattered Heights
+0.7 Scorching Dragonfire
+0.7 Shock
+0.7 Soul Sear
+0.5 Spellgorger Weird
+0.6 Subira, Tulzidi Caravanner
+0.6 Sure Strike
+1.0 Terror of the Peaks
+0.5 Thrill of Possibility
+0.5 Traitorous Greed
+0.4 Transmogrify
+0.6 Turn to Slag
+0.5 Turret Ogre
+0.5 Unleash Fury
+0.8 Volcanic Geyser
+0.5 Volcanic Salvo
+0.4 Azusa, Lost but Seeking
+0.5 Burlfist Oak
+0.3 Canopy Stalker
+0.7 Colossal Dreadmaw
+0.6 Cultivate
+0.5 Drowsing Tyrannodon
+1.0 Elder Gargaroth
+0.4 Feline Sovereign
+0.3 Fierce Empath
+0.6 Fungal Rebirth
+1.0 Garruk, Unleashed
+0.5 Garruk's Gorehorn
+0.6 Garruk's Harbinger
+0.5 Garruk's Uprising
+0.5 Gnarled Sage
+0.6 Heroic Intervention
+0.7 Hunter's Edge
+0.6 Invigorating Surge
+0.9 Jolrael, Mwonvuli Recluse
+0.3 Life Goes On
+0.7 Llanowar Visionary
+0.5 Ornery Dilophosaur
+0.3 Portcullis Vine
+0.5 Pridemalkin
+0.8 Primal Might
+0.3 Quirion Dryad
+0.5 Ranger's Guile
+0.4 Return to Nature
+0.4 Run Afoul
+0.5 Sabertooth Mauler
+0.3 Sanctum of Fruitful Harvest
+0.6 Scavenging Ooze
+0.5 Setessan Training
+0.6 Skyway Sniper
+0.5 Snarespinner
+0.5 Sporeweb Weaver
+0.5 Thrashing Brontodon
+0.5 Titanic Growth
+0.5 Track Down
+0.6 Trufflesnout
+0.5 Warden of the Woods
+0.7 Wildwood Scourge
+0.5 Alpine Houndmaster
+0.5 Conclave Mentor
+0.5 Dire Fleet Warmonger
+0.4 Experimental Overload
+0.6 Indulging Patrician
+0.7 Leafkin Avenger
+0.7 Lorescale Coatl
+0.4 Niambi, Esteemed Speaker
+0.5 Obsessive Stitcher
+0.8 Radha, Heart of Keld
+0.001 Sanctum of All
+0.5 Twinblade Assassins
+0.6 Watcher of the Spheres
+0.3 Chromatic Orrery
+0.5 Chrome Replicator
+0.4 Epitaph Golem
+0.5 Forgotten Sentinel
+0.3 Mazemind Tome
+0.5 Meteorite
+0.7 Palladium Myr
+0.5 Prismite
+0.5 Short Sword
+0.5 Silent Dart
+0.5 Skyscanner
+0.7 Solemn Simulacrum
+0.5 Sparkhunter Masticore
+0.1 Tormod's Crypt
+0.1 Animal Sanctuary
+0.1 Bloodfell Caves
+0.1 Blossoming Sands
+0.1 Dismal Backwater
+0.1 Fabled Passage
+0.1 Jungle Hollow
+0.1 Radiant Fountain
+0.1 Rugged Highlands
+0.1 Scoured Barrens
+0.1 Swiftwater Cliffs
+0.1 Temple of Epiphany
+0.1 Temple of Malady
+0.1 Temple of Mystery
+0.1 Temple of Silence
+0.1 Temple of Triumph
+0.1 Thornwood Falls
+0.1 Tranquil Cove
+0.1 Wind-Scarred Crag
+0.1 Plains
+0.1 Plains
+0.1 Plains
+0.1 Island
+0.1 Island
+0.1 Island
+0.1 Swamp
+0.1 Swamp
+0.1 Swamp
+0.1 Mountain
+0.1 Mountain
+0.1 Mountain
+0.1 Forest
+0.1 Forest
+0.1 Forest
